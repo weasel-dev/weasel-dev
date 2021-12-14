@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @weasel-dev
+- 👀 I’m interested in weasels
+- 🌱 I’m currently learning to code like a weasel
+- 💞️ I’m looking to collaborate on weasel stuff
+- 📫 How to reach me idk make a pull request
